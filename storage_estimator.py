@@ -9,3 +9,4 @@ avg_size_mb = float(input("Enter average file size in MB: "))
 total_mb = num_files * avg_size_mb
 
 print(f"Total storage: {total_mb:.2f} MB")
+print(f"Total storage: {total_mb / 1024:.3f} GB")
