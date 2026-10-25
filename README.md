@@ -1,4 +1,4 @@
-# Storage Estimator
+# Storage Estimator - Main Version
 
 ## Purpose
 A simple Python program that estimates the total storage needed for a group of files, based on the number of files and their average size in MB.
